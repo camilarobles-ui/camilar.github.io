@@ -1,0 +1,18 @@
+body {
+    font-family: didot, serif;
+    max-width: 600px;
+    margin: 40px auto;
+    }
+
+.question {
+    background-color: #dde7c7;
+    padding: 15px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+.answer {
+    padding: 15px;
+    background-color: #edeec9;
+}
+
